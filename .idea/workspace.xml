@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b550f05-c9ce-4477-9683-69870a83c8bb" name="Default Changelist" comment="" />
+    <list default="true" id="7b550f05-c9ce-4477-9683-69870a83c8bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp03singleton/Policy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dp03singleton/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dp03singleton/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dp03singleton/Policy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/dp03singleton/SingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dp03singleton/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/BlueCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/BlueCarForFamily.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/BlueCarForTravel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/BlueCarForWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ConcreteFactoryForFamily.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ConcreteFactoryForTravel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ConcreteFactoryForWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/RedCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/RedCarForFamily.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/RedCardForTravel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/RedCardForWork.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +35,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp03singleton/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp03singleton/Policy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/dp03singleton/SingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,6 +74,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,6 +124,9 @@
         <option value="$PROJECT_DIR$/src/main/java/example/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/example/RedCardForTravel.java" />
         <option value="$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp03sengleton/Policy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp03singleton/Policy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/dp03singleton/SingletonTest.java" />
       </list>
     </option>
   </component>
@@ -93,12 +143,12 @@
     <option name="width" value="2800" />
     <option name="height" value="1460" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,16 +175,38 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dp03singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578506523564" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578508196046" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/example" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -156,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="JUnit.SingletonTest">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.Client" />
       <module name="designpatterns" />
@@ -196,8 +268,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in designpatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp03singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dp03singleton" />
+      <option name="MAIN_CLASS_NAME" value="dp03singleton.SingletonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingletonTest" />
+        <item itemvalue="JUnit.All in designpatterns" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client" />
@@ -222,17 +319,41 @@
       <workItem from="1578499514314" duration="894000" />
       <workItem from="1578502951890" duration="1784000" />
       <workItem from="1578504763394" duration="1811000" />
+      <workItem from="1578506602764" duration="1597000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_designpatterns - 2020.01.08 at 18h 13m 18s.xml">
+      <configuration name="All in designpatterns" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_designpatterns - 2020.01.08 at 18h 13m 29s.xml">
+      <configuration name="All in designpatterns" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_designpatterns - 2020.01.08 at 18h 14m 17s.xml">
+      <configuration name="All in designpatterns" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_designpatterns - 2020.01.08 at 18h 18m 54s.xml">
+      <configuration name="All in designpatterns" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest - 2020.01.08 at 18h 21m 16s.xml">
+      <configuration name="SingletonTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest - 2020.01.08 at 18h 22m 02s.xml">
+      <configuration name="SingletonTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingletonTest - 2020.01.08 at 18h 22m 24s.xml">
+      <configuration name="SingletonTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11685000" />
+    <option name="totallyTimeSpent" value="13282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="783" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19283155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19569893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,7 +362,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924962" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -249,7 +370,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49964157" weight="0.32924962" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49964157" visible="true" weight="0.32924962" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003584" side_tool="true" weight="0.32924962" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32924962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -513,13 +634,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCar.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductA1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -531,167 +646,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCarForFamily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCardForWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForFamily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForFamily.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForTravel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForTravel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCardForTravel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/example/Diagram.uml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="" y="">example.BlueCarForWork</node>
-            <node x="" y="">example.BlueCar</node>
-            <node x="" y="">example.BlueCarForTravel</node>
-            <node x="" y="">example.Client</node>
-            <node x="" y="">example.RedCardForWork</node>
-            <node x="" y="">example.BlueCarForFamily</node>
-            <node x="" y="">example.ConcreteFactoryForWork</node>
-            <node x="" y="">example.AbstractFactory</node>
-            <node x="" y="">example.ConcreteFactoryForFamily</node>
-            <node x="" y="">example.RedCarForFamily</node>
-            <node x="" y="">example.RedCar</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.9084507042253521" x="574.5" y="203.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCarForFamily.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCardForWork.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForFamily.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForWork.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForFamily.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForWork.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/AbstractFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForTravel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForTravel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCardForTravel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/Diagram.uml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp03singleton/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp03singleton/Policy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dp03singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

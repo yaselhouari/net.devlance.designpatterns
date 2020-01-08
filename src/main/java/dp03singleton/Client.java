@@ -1,4 +1,4 @@
-package dp03sengleton;
+package dp03singleton;
 
 /*
     Ensures a class has only one instance, and provide a
