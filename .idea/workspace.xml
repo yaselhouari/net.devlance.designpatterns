@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b550f05-c9ce-4477-9683-69870a83c8bb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/AbstractObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/ConcreteObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/ConcreteFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/SavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/CitiSavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/NationalSavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/SavingsAccountFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factorymethod/CreditUnionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/SavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/NationalSavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/CitiSavingsAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/CreditUnionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/SavingsAccountFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/ConcreteFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/AbstractProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/ContreteProduct1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/ConcreteProduct2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductA1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductB1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductB2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductA2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteFactory1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteFactory2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp02abstractfactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/RedCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/RedCarForFamily.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/RedCardForWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/BlueCarForFamily.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/BlueCarForWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForFamily.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/BlueCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/BlueCarForTravel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForTravel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/example/RedCardForTravel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="40" />
+    <option name="y" value="40" />
+    <option name="width" value="2800" />
+    <option name="height" value="1460" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578506523564" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/example" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dp02abstractfactory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Client" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp02abstractfactory.Client" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp02abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp01factorymethod.Client" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp01factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b550f05-c9ce-4477-9683-69870a83c8bb" name="Default Changelist" comment="" />
+      <created>1578484994657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578484994657</updated>
+      <workItem from="1578485002721" duration="754000" />
+      <workItem from="1578487508446" duration="2063000" />
+      <workItem from="1578490146315" duration="1781000" />
+      <workItem from="1578491955331" duration="1116000" />
+      <workItem from="1578494174817" duration="1482000" />
+      <workItem from="1578499514314" duration="894000" />
+      <workItem from="1578502951890" duration="1784000" />
+      <workItem from="1578504763394" duration="1811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11685000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1453" height="783" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19283155" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49964157" weight="0.32924962" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003584" side_tool="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32924962" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/factorymethod/AbstractFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/factorymethod/AbstractObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/factorymethod/ConcreteObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/factorymethod/ConcreteFactory.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/NationalSavingsAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/SavingsAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/SavingsAccountFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/CitiSavingsAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/CreditUnionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/SavingsAccountFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/CreditUnionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/NationalSavingsAccount.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/CitiSavingsAccount.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/SavingsAccount.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/AbstractProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ContreteProduct1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteProduct2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/AbstractProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductB2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp01factorymethod/diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="75.75" y="101.0">dp01factorymethod.CitiSavingsAccount</node>
+            <node x="245.75" y="180.0">dp01factorymethod.CreditUnionFactory</node>
+            <node x="50.145833333333314" y="281.0">dp01factorymethod.SavingsAccountFactory</node>
+            <node x="140.27083333333337" y="0.0">dp01factorymethod.SavingsAccount</node>
+            <node x="0.0" y="191.0">dp01factorymethod.NationalSavingsAccount</node>
+            <node x="387.2083333333333" y="382.0">dp01factorymethod.Client</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="dp01factorymethod.SavingsAccountFactory" target="dp01factorymethod.SavingsAccount">
+              <point x="38.875" y="-25.5" />
+              <point x="244.52083333333331" y="256.0" />
+              <point x="235.25" y="256.0" />
+              <point x="235.25" y="81.0" />
+              <point x="228.93750000000003" y="81.0" />
+              <point x="12.666666666666657" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.CitiSavingsAccount" target="dp01factorymethod.SavingsAccount">
+              <point x="37.25" y="-14.5" />
+              <point x="187.5" y="81.0" />
+              <point x="203.60416666666669" y="81.0" />
+              <point x="-12.666666666666686" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.Client" target="dp01factorymethod.CreditUnionFactory">
+              <point x="0.0" y="-25.5" />
+              <point x="470.7083333333333" y="357.0" />
+              <point x="479.0" y="357.0" />
+              <point x="77.74999999999999" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.SavingsAccountFactory" target="dp01factorymethod.CitiSavingsAccount">
+              <point x="-38.875" y="-25.5" />
+              <point x="166.77083333333331" y="256.0" />
+              <point x="187.5" y="256.0" />
+              <point x="37.25" y="14.5" />
+            </edge>
+            <edge source="dp01factorymethod.NationalSavingsAccount" target="dp01factorymethod.CitiSavingsAccount">
+              <point x="44.25" y="-14.5" />
+              <point x="132.75" y="155.0" />
+              <point x="113.0" y="155.0" />
+              <point x="-37.25" y="14.5" />
+            </edge>
+            <edge source="dp01factorymethod.SavingsAccountFactory" target="dp01factorymethod.CreditUnionFactory">
+              <point x="116.625" y="-25.5" />
+              <point x="322.2708333333333" y="256.0" />
+              <point x="323.5" y="256.0" />
+              <point x="-77.75" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.SavingsAccountFactory" target="dp01factorymethod.NationalSavingsAccount">
+              <point x="-116.625" y="-25.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="dp01factorymethod.CreditUnionFactory" target="dp01factorymethod.SavingsAccount">
+              <point x="0.0" y="-25.5" />
+              <point x="401.25" y="81.0" />
+              <point x="254.27083333333337" y="81.0" />
+              <point x="38.0" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.Client" target="dp01factorymethod.SavingsAccountFactory">
+              <point x="-55.66666666666663" y="-25.5" />
+              <point x="415.0416666666667" y="357.0" />
+              <point x="205.64583333333331" y="357.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.Client" target="dp01factorymethod.SavingsAccount">
+              <point x="55.66666666666663" y="-25.5" />
+              <point x="526.375" y="357.0" />
+              <point x="567.25" y="357.0" />
+              <point x="567.25" y="71.0" />
+              <point x="279.6041666666667" y="71.0" />
+              <point x="63.333333333333314" y="25.5" />
+            </edge>
+            <edge source="dp01factorymethod.NationalSavingsAccount" target="dp01factorymethod.SavingsAccount">
+              <point x="-44.25" y="-14.5" />
+              <point x="44.25" y="71.0" />
+              <point x="152.93750000000006" y="71.0" />
+              <point x="-63.333333333333314" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="77.0" y="170.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteFactory2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteFactory1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductB1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/AbstractProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp02abstractfactory/ConcreteProductA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCarForFamily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCardForWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForFamily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForFamily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/BlueCarForTravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/ConcreteFactoryForTravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/RedCardForTravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/example/Diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">example.BlueCarForWork</node>
+            <node x="" y="">example.BlueCar</node>
+            <node x="" y="">example.BlueCarForTravel</node>
+            <node x="" y="">example.Client</node>
+            <node x="" y="">example.RedCardForWork</node>
+            <node x="" y="">example.BlueCarForFamily</node>
+            <node x="" y="">example.ConcreteFactoryForWork</node>
+            <node x="" y="">example.AbstractFactory</node>
+            <node x="" y="">example.ConcreteFactoryForFamily</node>
+            <node x="" y="">example.RedCarForFamily</node>
+            <node x="" y="">example.RedCar</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9084507042253521" x="574.5" y="203.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dp03sengleton/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
